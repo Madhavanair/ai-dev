@@ -4,7 +4,9 @@ Download the zip file , extract from zip file and open in vs code
 ,use bash or powershell to install torch or transformers
 ,you can use "pip install torch" and "pip install transformers" to succesfully install in a debian package 
 ,Make sure python3 --version is >= than 3.9.1
-,make sure assembly ai library is used when running the assembly ai code 
+,make sure assembly ai library is used when running the assembly ai code /t
+/n
+/n
 Heres the pseudo code for the ai text summarizer that I developed 
 •	Import the necessary libraries, including the GPT-2 tokenizer and model.
 •	Define a function that takes in a text input and a maximum summary length.
