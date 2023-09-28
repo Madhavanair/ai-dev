@@ -17,3 +17,4 @@ Heres the pseudo code for the ai text summarizer that I developed
 •	In the main block, define an input text and call the summarization function.
 •	Print the original text and the generated summary.
 •	Here's the Python code for the same:
+the python code is in the file
